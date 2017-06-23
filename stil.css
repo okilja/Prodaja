@@ -1,0 +1,60 @@
+body{
+    background-color: #ffe0cc;
+}
+.telo{
+    min-height: 800px
+}
+
+ul, li{
+    list-style:none;
+}
+
+/* Za dugme 'dodati u kolica u artiklima' */
+.btn-xs{
+    float: right;
+}
+
+
+/* Za slike u artiklima' */
+.img-responsive{
+    height: 200px;
+}
+
+/* Meni */
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+
+ul .dropdown-menu{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+/* Futer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+
+/* Slajder */
+.carousel-inner{
+    height: 500px;
+}
+
+.item, .active{
+    height: auto;
+}
+
+
+/* Reklame */
+.well{
+    height: 150px;
+}
+
+/* Crveni tekst u formu */
+.crveno {
+    color: red;
+}

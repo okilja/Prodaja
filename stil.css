@@ -32,17 +32,6 @@ ul .dropdown-menu{
 }
 
 
-/* Futer */
-footer {
-    background-color: #f2f2f2;
-    padding: 25px;
-}
-
-
-/* Slajder */
-.carousel-inner{
-    height: 500px;
-}
 
 .item, .active{
     height: auto;
@@ -57,4 +46,11 @@ footer {
 /* Crveni tekst u formu */
 .crveno {
     color: red;
+}
+
+
+/* Futer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
 }
